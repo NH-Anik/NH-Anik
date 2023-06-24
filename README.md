@@ -6,7 +6,7 @@
 
 # Here is My Project Link Please Visite the link Thank You.
 1.[Project-One](https://melodious-shortbread-ec85dd.netlify.app)
-2.[Project-One](https://thriving-panda-84ef3e.netlify.app)
-3.[Project-One](https://enchanting-salamander-eeeefd.netlify.app)
+2.[Project-Two](https://thriving-panda-84ef3e.netlify.app)
+3.[Project-Three](https://enchanting-salamander-eeeefd.netlify.app)
 4.[Project-JavaScript](https://main--stellular-cocada-2aace1.netlify.app/)
 
