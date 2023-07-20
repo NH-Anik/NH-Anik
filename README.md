@@ -40,5 +40,33 @@
 </br>
 
 
+# VS-Code Most importantly Some Extention in Full-stack Development 
+- Auto Close Tag
+- Auto rename tag
+- HTML class suggestions
+- HTML to CSS autocompletion
+- Snipped
+- IntelliSense for CSS class name in HTML
+- Prettier-code formatter
+- Es-line
+- React code snippets
+- VS-code react refactor 
+- Path Intellisense
+- path autocomplete
+- npm Intellisense
+- Auto import-Es6, Ts, Jsx, Ts
+- Es7 react / Redux / GrphQL/ React-Native
+- ReactJs code snippets
+- React Hooks snippets 
+- Vs-code icons
+## CSS frame Work in 
+- Tailwind CSS intellisense 
+- Stylelint
+## SASS Code
+- Live Sass Compiller 
+## Request Chack GET POST PUT DELETE 
+- Postman
+- Thunder client
+
 
 
