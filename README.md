@@ -64,7 +64,7 @@
 - Stylelint
 ## SASS Code
 - Live Sass Compiller 
-## Request Chack GET POST PUT DELETE 
+## Request Check GET POST PUT DELETE 
 - Postman
 - Thunder client
 
