@@ -40,7 +40,7 @@
 </br>
 
 
-# VS-Code Most importantly Some Extention in Full-stack Development 
+# VS-Code Most important Some Extention in Full-stack Development 
 - Auto Close Tag
 - Auto rename tag
 - HTML class suggestions
