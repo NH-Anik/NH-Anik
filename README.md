@@ -35,7 +35,7 @@
 <a href="mailto:niamulhasan515@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="gmail" /></a>
 <a href='https://www.linkedin.com/in/nh-anik/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="linkedin" /></a>
 <a href='https://https://twitter.com/niamulhasan111'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt="twitter" /></a>
-<a href='https://www.facebook.com/NHANIK11/'><img src='https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt="facebook" /></a>
+<a href='https://www.facebook.com/NHANIK11/'><img src='https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white' alt="facebook" /></a>
 
 </br>
 
