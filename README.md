@@ -62,7 +62,7 @@
 ## CSS frame Work in 
 - Tailwind CSS intellisense 
 - Stylelint
-## SASS Code
+## SASS Code Run
 - Live Sass Compiller 
 ## Request Check GET POST PUT DELETE 
 - Postman
