@@ -40,7 +40,7 @@
 </br>
 
 
-# VS-Code Most important Some Extention in Full-stack Development 
+### VS-Code Most important Some Extention in Full-stack Development 
 - Auto Close Tag
 - Auto rename tag
 - HTML class suggestions
@@ -59,12 +59,12 @@
 - ReactJs code snippets
 - React Hooks snippets 
 - Vs-code icons
-## CSS frame Work in 
+### CSS frame Work in 
 - Tailwind CSS intellisense 
 - Stylelint
-## SASS Code Run
+### SASS Code Run
 - Live Sass Compiller 
-## Request Check GET POST PUT DELETE 
+### Request Check GET POST PUT DELETE 
 - Postman
 - Thunder client
 
