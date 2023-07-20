@@ -1,7 +1,7 @@
 ## Who Am I ? 🤔
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer.
-- 👩‍🎓 Enrolled at [Microverse](https://github.com/NH-Anik) to elevate my coding skills.
+- 👩‍🎓 Enrolled at [Git-hub](https://github.com/NH-Anik) to elevate my coding skills.
 - 💻 Currently working on [My Portfolio](https://beautiful-pasca-ebb4e9.netlify.app/).
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
@@ -10,9 +10,6 @@
 - 😄 Passionate about accessibility and a web that works for everyone.
 
 </br>
-
-
-
 
 - 👋 Hi, I’m @NH-Anik
 - 👀 I’m interested in ...
