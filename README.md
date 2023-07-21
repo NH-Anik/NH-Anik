@@ -57,7 +57,9 @@
 - Auto import-Es6, Ts, Jsx, Ts
 - Es7 react / Redux / GrphQL/ React-Native
 - ReactJs code snippets
-- React Hooks snippets 
+- React Hooks snippets
+- HTML to JSX
+- Dotenv
 - Vs-code icons
 ### CSS frame Work in 
 - Tailwind CSS intellisense 
@@ -68,5 +70,9 @@
 - Postman
 - Thunder client
 
+
+### Browser Extention 
+- React development tools
+- fack field 
 
 
