@@ -61,6 +61,7 @@
 - HTML to JSX
 - Dotenv
 - Vs-code icons
+- :emojisense:
 ### CSS frame Work in 
 - Tailwind CSS intellisense 
 - Stylelint
