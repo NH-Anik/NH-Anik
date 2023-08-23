@@ -61,6 +61,9 @@
 - HTML to JSX
 - Dotenv
 - Vs-code icons
+- Stylelint
+- Code Spell Checker
+- Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript
 - :emojisense:
 ### CSS frame Work in 
 - Tailwind CSS intellisense 
