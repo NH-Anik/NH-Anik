@@ -35,9 +35,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 
-## Stats
-![NH-Anik GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnpd&show_icons=true&theme=radical)
-
 </br>
 
 # MY Portfolio -> [NH-Anik-Portfolio](https://beautiful-pasca-ebb4e9.netlify.app) <- Click Here
