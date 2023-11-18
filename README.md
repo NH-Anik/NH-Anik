@@ -92,7 +92,7 @@
 - Stylelint
 ### SASS Code Run
 - Live Sass Compiller 
-### Request Check GET POST PUT DELETE 
+### Request Check GET-Read Document POST-Create Document PUT-Update Document DELETE-Delete Document 
 - Postman
 - Thunder client
 
