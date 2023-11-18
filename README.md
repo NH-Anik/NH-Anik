@@ -99,6 +99,7 @@
 
 ### Browser Extention 
 - React development tools
+- Redux development tools
 - fack field 
 
 
