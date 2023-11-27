@@ -86,6 +86,11 @@
 - Stylelint
 - Code Spell Checker
 - Codeium: AI Coding Autocomplete and Chat for Python, Javascript, Typescript
+- CodeSnap (take Code screen short)
+- JeleyFish theme
+- Vibrancy 
+- Winddown
+- Drow.io (SVG Design in vs code)
 - :emojisense:
 ### CSS frame Work in 
 - Tailwind CSS intellisense 
