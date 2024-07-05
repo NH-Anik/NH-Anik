@@ -75,6 +75,7 @@
 - Indent Rainbow
 - Image Preview
 - Github Theme
+- Material Icon Theme
 - Snipped
 - IntelliSense for CSS class name in HTML
 - Prettier-code formatter
