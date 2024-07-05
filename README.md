@@ -16,6 +16,7 @@
 
 - #### [Twitter 🐦](https://twitter.com/niamulhasan111)
 - #### [Linked In 👨‍💻](https://www.linkedin.com/in/nh-anik)
+- #### [Facebook](https://www.facebook.com/in/nhanik11)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
