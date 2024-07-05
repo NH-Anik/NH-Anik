@@ -64,10 +64,17 @@
 
 
 ### VS-Code Most important Some Extention in Full-stack Development 
+- Live Server
+- Live Preview
+- VSCode Pets
 - Auto Close Tag
 - Auto rename tag
 - HTML class suggestions
 - HTML to CSS autocompletion
+- HTML End Tag Labels
+- Indent Rainbow
+- Image Preview
+- Github Theme
 - Snipped
 - IntelliSense for CSS class name in HTML
 - Prettier-code formatter
