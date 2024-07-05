@@ -76,6 +76,11 @@
 - Image Preview
 - Github Theme
 - Material Icon Theme
+- Better Comments
+- Excalidraw
+- Error Lens
+- Live Share
+- color highlights 
 - Snipped
 - IntelliSense for CSS class name in HTML
 - Prettier-code formatter
