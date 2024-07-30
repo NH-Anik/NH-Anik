@@ -66,6 +66,7 @@
 
 ### VS-Code Most important Some Extention in Full-stack Development 
 - Live Server
+- Code Runner
 - Live Preview
 - VSCode Pets
 - Auto Close Tag
