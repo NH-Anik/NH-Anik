@@ -1,54 +1,29 @@
-<!-- 🔥 Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00C9A7&height=220&section=header&text=NH%20Anik&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-</p>
-
-<!-- 👋 Title -->
 <h1 align="center">Hi 👋, I'm NH Anik</h1>
+<h3 align="center">🚀 Full Stack Developer (MERN) | DevOps Enthusiast | UI Animation Specialist</h3>
 
-<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C9A7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);DevOps+Engineer;UI+Animation+Specialist;Building+Scalable+Systems;Clean+Code+%7C+Production+Ready+Apps" />
-</p>
-
-<!-- 🚀 Subtitle -->
-<h3 align="center">🚀 Full Stack Developer | DevOps | Performance & UI Engineering</h3>
-
-<!-- 🌐 Buttons -->
-<p align="center">
-  <a href="https://nh-anik-portfolio-v1-bego.vercel.app">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Live-0A66C2?style=for-the-badge"/>
+  <a href="https://nh-anik-portfolio-v1-bego.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/NH-Anik">
-    <img src="https://komarev.com/ghpvc/?username=NH-Anik&style=for-the-badge&color=00C9A7"/>
+    <img src="https://komarev.com/ghpvc/?username=NH-Anik&style=for-the-badge&color=blue"/>
   </a>
-  <a href="mailto:niamulhasan515@gmail.com">
-    <img src="https://img.shields.io/badge/📩 Email-Contact-D14836?style=for-the-badge"/>
-  </a>
-</p>
-
-<!-- 🔥 Social Icons -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,linkedin,twitter,react,nodejs,mongodb,docker,linux&theme=dark" />
-  </a>
-</p>
-
-<!-- ⚡ Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284103-3cdbb6b4-7bcb-4e3c-b7d7-0f4f7c0c7f68.gif" width="100%" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-```bash
-Full Stack Engineer (MERN) focused on building scalable, high-performance applications.
-DevOps enthusiast with hands-on experience in VPS, CI/CD, and deployment pipelines.
-Strong in UI engineering, animations (GSAP), and modern frontend architecture.
+- 🥈 Physicist → Software Engineer  
+- 💻 Building **scalable & production-ready applications**  
+- 🌐 Expert in **MERN Stack (MongoDB, Express, React, Node.js)**  
+- ⚙️ Learning **DevOps (Docker, CI/CD, Deployment Pipelines)**  
+- 🎯 Focused on **performance, clean architecture & accessibility**  
+- 🎨 Love **GSAP animations & premium UI/UX design**  
+- 🌍 Working with developers worldwide  
 
-```bash
+---
+
 ## 🚀 Tech Stack
 
 ### ⚡ Frontend
@@ -65,11 +40,10 @@ Strong in UI engineering, animations (GSAP), and modern frontend architecture.
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### ⚙️ DevOps & VPS
+### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
@@ -78,7 +52,7 @@ Strong in UI engineering, animations (GSAP), and modern frontend architecture.
 - 🔥 NH Worker Hire (MERN Full Stack)  
   👉 https://nh-hireworker-frontent.onrender.com/
 
-- 🤖 AI Spotlights  
+- 🤖 AI Spotlights (React + Firebase)  
   👉 https://phenomenal-monstera-2649f8.netlify.app/
 
 - 📝 Blog Platform  
@@ -98,34 +72,11 @@ Strong in UI engineering, animations (GSAP), and modern frontend architecture.
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/NH-Anik/NH-Anik/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-
----
-
-## ⚙️ Development Tools (Professional)
-
-### 🧰 Core Tools
-- VS Code  
-- Git & GitHub  
-- Postman / Thunder Client  
-- Docker  
-
-### 🧠 VS Code Essentials
-- Prettier (Code Formatter)  
-- ESLint  
-- Path IntelliSense  
-- Auto Import  
-- Tailwind IntelliSense  
-- React Snippets  
-- Error Lens  
-
-### 🌐 Browser Dev Tools
-- React Developer Tools  
-- Redux DevTools  
 
 ---
 
