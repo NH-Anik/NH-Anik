@@ -119,7 +119,7 @@ Strong in UI engineering, animations (GSAP), and modern frontend architecture.s
 
 ## ⚡ Core Strength
 
-```bash
+
 MERN Stack • DevOps • VPS Deployment • UI Animation • Performance Optimization
 
 ---
