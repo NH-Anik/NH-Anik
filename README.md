@@ -121,3 +121,70 @@ Strong in UI engineering, animations (GSAP), and modern frontend architecture.s
 
 ```bash
 MERN Stack • DevOps • VPS Deployment • UI Animation • Performance Optimization
+
+---
+
+## 🌟 Featured Projects
+
+| 🚀 Project | 🧠 Tech | 🌐 Live |
+|-----------|--------|--------|
+| 🔥 NH Worker Hire | MERN Stack | https://nh-hireworker-frontent.onrender.com/ |
+| 🤖 AI Spotlights | React + Firebase | https://phenomenal-monstera-2649f8.netlify.app/ |
+| 📝 Blog Platform | MERN | https://dreamy-speculoos-9dd4fd.netlify.app |
+| 🌐 Portfolio | React + GSAP | https://nh-anik-portfolio-v1-bego.vercel.app |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NH-Anik&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NH-Anik&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NH-Anik&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NH-Anik&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/NH-Anik/NH-Anik/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:niamulhasan515@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nh-anik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/niamulhasan111">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+```bash
+Code Clean. Build Scalable. Deploy Smart.
