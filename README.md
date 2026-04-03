@@ -2,7 +2,7 @@
  _Let me write quickly about myself without bragging:_
 - 🥈 Physicist by Degree and Software Developer.
 - 👩‍🎓 Enrolled at [Git-hub](https://github.com/NH-Anik) to elevate my coding skills.
-- 💻 Currently working on [My Portfolio](https://beautiful-pasca-ebb4e9.netlify.app/).
+- 💻 Currently working on [My Portfolio](https://nh-anik-portfolio-v1-bego.vercel.app).
 - 🌍 Collaborating with web developers from around the world.
 - ✨ Full-time coder and part-time? Let's keep it simple, a coder.
 - 🚀 Eager to write code to explore space and galaxies.
