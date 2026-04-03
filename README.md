@@ -47,7 +47,7 @@
 Full Stack Engineer (MERN) focused on building scalable, high-performance applications.
 DevOps enthusiast with hands-on experience in VPS, CI/CD, and deployment pipelines.
 Strong in UI engineering, animations (GSAP), and modern frontend architecture.
----
+
 
 ## 🚀 Tech Stack
 
