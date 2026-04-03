@@ -155,7 +155,7 @@ MERN Stack • DevOps • VPS Deployment • UI Animation • Performance Optimi
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NH-Anik&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NH-Anik&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
