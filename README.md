@@ -1,13 +1,28 @@
-## Who Am I ? 🤔
- _Let me write quickly about myself without bragging:_
-- 🥈 Physicist by Degree and Software Developer.
-- 👩‍🎓 Enrolled at [Git-hub](https://github.com/NH-Anik) to elevate my coding skills.
-- 💻 Currently working on [My Portfolio](https://nh-anik-portfolio-v1-bego.vercel.app).
-- 🌍 Collaborating with web developers from around the world.
-- ✨ Full-time coder and part-time? Let's keep it simple, a coder.
-- 🚀 Eager to write code to explore space and galaxies.
-- ❤ Love working with `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.json`, `.yml`, `.sql`, `.rb`, `.erb`
-- 😄 Passionate about accessibility and a web that works for everyone.
+## 🚀 Who Am I?
+
+Hi, I'm **NH Anik** — a passionate **Full Stack Developer (MERN) & DevOps Enthusiast** with a strong foundation in physics and problem-solving.
+
+### 👨‍💻 About Me
+- 🥈 Physicist turned Software Engineer
+- 💻 Building scalable, production-ready web applications
+- 🌐 Experienced in **MERN Stack (MongoDB, Express, React, Node.js)**
+- ⚙️ DevOps learner (CI/CD, Docker, deployment pipelines)
+- 🎯 Focused on performance, clean architecture & accessibility
+- 🚀 Love crafting smooth UI/UX with **GSAP, animations & modern design**
+- 🌍 Collaborating with developers worldwide
+
+### 🔗 Current Work
+- 🛠 Working on my portfolio:  
+  👉 https://nh-anik-portfolio-v1-bego.vercel.app
+- 📦 Exploring advanced full-stack systems & deployment strategies
+
+### 🧠 Tech Stack
+```bash
+Frontend   : HTML, CSS, SCSS, JavaScript, React, GSAP
+Backend    : Node.js, Express.js
+Database   : MongoDB, SQL
+DevOps     : Docker, CI/CD (learning), Linux
+Languages  : JS, JSON, YAML, SQL, Ruby (basic)
 
 </br>
 - # Hi, I'm NH-Anik 👋 💻
